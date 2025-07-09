@@ -115,6 +115,7 @@
             <artifactId>opentelemetry-exporter-zipkin</artifactId>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.github.loki4j/loki-logback-appender -->
+
         <dependency>
             <groupId>com.github.loki4j</groupId>
             <artifactId>loki-logback-appender</artifactId>
